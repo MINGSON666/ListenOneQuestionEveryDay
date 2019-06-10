@@ -1,0 +1,11 @@
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ZipTwoLists\bin\Debug\netcoreapp2.1\ZipTwoLists.deps.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ZipTwoLists\bin\Debug\netcoreapp2.1\ZipTwoLists.runtimeconfig.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ZipTwoLists\bin\Debug\netcoreapp2.1\ZipTwoLists.runtimeconfig.dev.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ZipTwoLists\bin\Debug\netcoreapp2.1\ZipTwoLists.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ZipTwoLists\bin\Debug\netcoreapp2.1\ZipTwoLists.pdb
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ZipTwoLists\obj\Debug\netcoreapp2.1\ZipTwoLists.csprojAssemblyReference.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ZipTwoLists\obj\Debug\netcoreapp2.1\ZipTwoLists.csproj.CoreCompileInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ZipTwoLists\obj\Debug\netcoreapp2.1\ZipTwoLists.AssemblyInfoInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ZipTwoLists\obj\Debug\netcoreapp2.1\ZipTwoLists.AssemblyInfo.cs
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ZipTwoLists\obj\Debug\netcoreapp2.1\ZipTwoLists.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ZipTwoLists\obj\Debug\netcoreapp2.1\ZipTwoLists.pdb
