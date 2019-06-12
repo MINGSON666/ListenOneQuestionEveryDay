@@ -1,0 +1,11 @@
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CountNumberPairs\bin\Debug\netcoreapp2.1\CountNumberPairs.deps.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CountNumberPairs\bin\Debug\netcoreapp2.1\CountNumberPairs.runtimeconfig.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CountNumberPairs\bin\Debug\netcoreapp2.1\CountNumberPairs.runtimeconfig.dev.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CountNumberPairs\bin\Debug\netcoreapp2.1\CountNumberPairs.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CountNumberPairs\bin\Debug\netcoreapp2.1\CountNumberPairs.pdb
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CountNumberPairs\obj\Debug\netcoreapp2.1\CountNumberPairs.csprojAssemblyReference.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CountNumberPairs\obj\Debug\netcoreapp2.1\CountNumberPairs.csproj.CoreCompileInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CountNumberPairs\obj\Debug\netcoreapp2.1\CountNumberPairs.AssemblyInfoInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CountNumberPairs\obj\Debug\netcoreapp2.1\CountNumberPairs.AssemblyInfo.cs
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CountNumberPairs\obj\Debug\netcoreapp2.1\CountNumberPairs.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CountNumberPairs\obj\Debug\netcoreapp2.1\CountNumberPairs.pdb
