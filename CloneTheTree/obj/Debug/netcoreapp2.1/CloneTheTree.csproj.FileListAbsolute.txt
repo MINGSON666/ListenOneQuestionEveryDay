@@ -1,0 +1,11 @@
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CloneTheTree\bin\Debug\netcoreapp2.1\CloneTheTree.deps.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CloneTheTree\bin\Debug\netcoreapp2.1\CloneTheTree.runtimeconfig.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CloneTheTree\bin\Debug\netcoreapp2.1\CloneTheTree.runtimeconfig.dev.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CloneTheTree\bin\Debug\netcoreapp2.1\CloneTheTree.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CloneTheTree\bin\Debug\netcoreapp2.1\CloneTheTree.pdb
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CloneTheTree\obj\Debug\netcoreapp2.1\CloneTheTree.csproj.CoreCompileInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CloneTheTree\obj\Debug\netcoreapp2.1\CloneTheTree.AssemblyInfoInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CloneTheTree\obj\Debug\netcoreapp2.1\CloneTheTree.AssemblyInfo.cs
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CloneTheTree\obj\Debug\netcoreapp2.1\CloneTheTree.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CloneTheTree\obj\Debug\netcoreapp2.1\CloneTheTree.pdb
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\CloneTheTree\obj\Debug\netcoreapp2.1\CloneTheTree.csprojAssemblyReference.cache
