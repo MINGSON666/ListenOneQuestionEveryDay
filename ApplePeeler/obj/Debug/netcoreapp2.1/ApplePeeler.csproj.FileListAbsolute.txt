@@ -1,0 +1,11 @@
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ApplePeeler\bin\Debug\netcoreapp2.1\ApplePeeler.deps.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ApplePeeler\bin\Debug\netcoreapp2.1\ApplePeeler.runtimeconfig.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ApplePeeler\bin\Debug\netcoreapp2.1\ApplePeeler.runtimeconfig.dev.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ApplePeeler\bin\Debug\netcoreapp2.1\ApplePeeler.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ApplePeeler\bin\Debug\netcoreapp2.1\ApplePeeler.pdb
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ApplePeeler\obj\Debug\netcoreapp2.1\ApplePeeler.csprojAssemblyReference.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ApplePeeler\obj\Debug\netcoreapp2.1\ApplePeeler.csproj.CoreCompileInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ApplePeeler\obj\Debug\netcoreapp2.1\ApplePeeler.AssemblyInfoInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ApplePeeler\obj\Debug\netcoreapp2.1\ApplePeeler.AssemblyInfo.cs
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ApplePeeler\obj\Debug\netcoreapp2.1\ApplePeeler.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\ApplePeeler\obj\Debug\netcoreapp2.1\ApplePeeler.pdb
