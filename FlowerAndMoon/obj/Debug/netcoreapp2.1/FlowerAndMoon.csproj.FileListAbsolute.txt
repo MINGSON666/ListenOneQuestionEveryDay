@@ -1,0 +1,11 @@
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\FlowerAndMoon\bin\Debug\netcoreapp2.1\FlowerAndMoon.deps.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\FlowerAndMoon\bin\Debug\netcoreapp2.1\FlowerAndMoon.runtimeconfig.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\FlowerAndMoon\bin\Debug\netcoreapp2.1\FlowerAndMoon.runtimeconfig.dev.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\FlowerAndMoon\bin\Debug\netcoreapp2.1\FlowerAndMoon.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\FlowerAndMoon\bin\Debug\netcoreapp2.1\FlowerAndMoon.pdb
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\FlowerAndMoon\obj\Debug\netcoreapp2.1\FlowerAndMoon.csprojAssemblyReference.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\FlowerAndMoon\obj\Debug\netcoreapp2.1\FlowerAndMoon.csproj.CoreCompileInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\FlowerAndMoon\obj\Debug\netcoreapp2.1\FlowerAndMoon.AssemblyInfoInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\FlowerAndMoon\obj\Debug\netcoreapp2.1\FlowerAndMoon.AssemblyInfo.cs
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\FlowerAndMoon\obj\Debug\netcoreapp2.1\FlowerAndMoon.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\FlowerAndMoon\obj\Debug\netcoreapp2.1\FlowerAndMoon.pdb
