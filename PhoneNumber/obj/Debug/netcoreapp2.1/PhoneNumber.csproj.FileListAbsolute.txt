@@ -1,0 +1,11 @@
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumber\bin\Debug\netcoreapp2.1\PhoneNumber.deps.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumber\bin\Debug\netcoreapp2.1\PhoneNumber.runtimeconfig.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumber\bin\Debug\netcoreapp2.1\PhoneNumber.runtimeconfig.dev.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumber\bin\Debug\netcoreapp2.1\PhoneNumber.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumber\bin\Debug\netcoreapp2.1\PhoneNumber.pdb
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumber\obj\Debug\netcoreapp2.1\PhoneNumber.csprojAssemblyReference.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumber\obj\Debug\netcoreapp2.1\PhoneNumber.csproj.CoreCompileInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumber\obj\Debug\netcoreapp2.1\PhoneNumber.AssemblyInfoInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumber\obj\Debug\netcoreapp2.1\PhoneNumber.AssemblyInfo.cs
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumber\obj\Debug\netcoreapp2.1\PhoneNumber.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumber\obj\Debug\netcoreapp2.1\PhoneNumber.pdb
