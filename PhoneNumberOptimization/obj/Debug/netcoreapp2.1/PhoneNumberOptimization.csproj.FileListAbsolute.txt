@@ -1,0 +1,11 @@
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumberOptimization\bin\Debug\netcoreapp2.1\PhoneNumberOptimization.deps.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumberOptimization\bin\Debug\netcoreapp2.1\PhoneNumberOptimization.runtimeconfig.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumberOptimization\bin\Debug\netcoreapp2.1\PhoneNumberOptimization.runtimeconfig.dev.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumberOptimization\bin\Debug\netcoreapp2.1\PhoneNumberOptimization.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumberOptimization\bin\Debug\netcoreapp2.1\PhoneNumberOptimization.pdb
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumberOptimization\obj\Debug\netcoreapp2.1\PhoneNumberOptimization.csprojAssemblyReference.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumberOptimization\obj\Debug\netcoreapp2.1\PhoneNumberOptimization.csproj.CoreCompileInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumberOptimization\obj\Debug\netcoreapp2.1\PhoneNumberOptimization.AssemblyInfoInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumberOptimization\obj\Debug\netcoreapp2.1\PhoneNumberOptimization.AssemblyInfo.cs
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumberOptimization\obj\Debug\netcoreapp2.1\PhoneNumberOptimization.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\PhoneNumberOptimization\obj\Debug\netcoreapp2.1\PhoneNumberOptimization.pdb
