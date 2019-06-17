@@ -1,0 +1,10 @@
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\AccessNeighbors\bin\Debug\netcoreapp2.1\AccessNeighbors.deps.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\AccessNeighbors\bin\Debug\netcoreapp2.1\AccessNeighbors.runtimeconfig.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\AccessNeighbors\bin\Debug\netcoreapp2.1\AccessNeighbors.runtimeconfig.dev.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\AccessNeighbors\bin\Debug\netcoreapp2.1\AccessNeighbors.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\AccessNeighbors\bin\Debug\netcoreapp2.1\AccessNeighbors.pdb
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\AccessNeighbors\obj\Debug\netcoreapp2.1\AccessNeighbors.csproj.CoreCompileInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\AccessNeighbors\obj\Debug\netcoreapp2.1\AccessNeighbors.AssemblyInfoInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\AccessNeighbors\obj\Debug\netcoreapp2.1\AccessNeighbors.AssemblyInfo.cs
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\AccessNeighbors\obj\Debug\netcoreapp2.1\AccessNeighbors.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\AccessNeighbors\obj\Debug\netcoreapp2.1\AccessNeighbors.pdb
