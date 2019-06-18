@@ -1,0 +1,11 @@
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BigBombs\bin\Debug\netcoreapp2.1\BigBombs.deps.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BigBombs\bin\Debug\netcoreapp2.1\BigBombs.runtimeconfig.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BigBombs\bin\Debug\netcoreapp2.1\BigBombs.runtimeconfig.dev.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BigBombs\bin\Debug\netcoreapp2.1\BigBombs.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BigBombs\bin\Debug\netcoreapp2.1\BigBombs.pdb
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BigBombs\obj\Debug\netcoreapp2.1\BigBombs.csproj.CoreCompileInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BigBombs\obj\Debug\netcoreapp2.1\BigBombs.AssemblyInfoInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BigBombs\obj\Debug\netcoreapp2.1\BigBombs.AssemblyInfo.cs
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BigBombs\obj\Debug\netcoreapp2.1\BigBombs.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BigBombs\obj\Debug\netcoreapp2.1\BigBombs.pdb
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BigBombs\obj\Debug\netcoreapp2.1\BigBombs.csprojAssemblyReference.cache
