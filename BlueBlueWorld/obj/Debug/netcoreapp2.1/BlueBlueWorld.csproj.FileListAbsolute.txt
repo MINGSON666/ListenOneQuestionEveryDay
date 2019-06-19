@@ -1,0 +1,10 @@
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BlueBlueWorld\bin\Debug\netcoreapp2.1\BlueBlueWorld.deps.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BlueBlueWorld\bin\Debug\netcoreapp2.1\BlueBlueWorld.runtimeconfig.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BlueBlueWorld\bin\Debug\netcoreapp2.1\BlueBlueWorld.runtimeconfig.dev.json
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BlueBlueWorld\bin\Debug\netcoreapp2.1\BlueBlueWorld.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BlueBlueWorld\bin\Debug\netcoreapp2.1\BlueBlueWorld.pdb
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BlueBlueWorld\obj\Debug\netcoreapp2.1\BlueBlueWorld.csproj.CoreCompileInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BlueBlueWorld\obj\Debug\netcoreapp2.1\BlueBlueWorld.AssemblyInfoInputs.cache
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BlueBlueWorld\obj\Debug\netcoreapp2.1\BlueBlueWorld.AssemblyInfo.cs
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BlueBlueWorld\obj\Debug\netcoreapp2.1\BlueBlueWorld.dll
+D:\learn\TimothyLiu\WorkSpace\ListenOneQuestionEveryDay\BlueBlueWorld\obj\Debug\netcoreapp2.1\BlueBlueWorld.pdb
